@@ -1,0 +1,13 @@
+name: testDurationCalculator
+title: testDurationCalculator
+username:
+account: ces-demo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6437899
+bundleId: 6005710
+url: https://ces-demo.shinyapps.io/testDurationCalculator/
+when: 1655194014.37648
+lastSyncTime: 1655194014.37649
+asMultiple: FALSE
+asStatic: FALSE
